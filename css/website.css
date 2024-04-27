@@ -1,0 +1,30 @@
+header{
+	height: 500px	;
+	box-shadow: 0px 0px 5px 0px #000;
+	background-color: gray;
+}
+header nav {
+	list-style-type: none;
+	float: right;
+	
+}
+
+header nav ul li{
+	display: inline-block;
+
+
+}
+
+header nav ul li a{
+	display: 	inline-block	;
+	text-decoration: none;
+	font-size: 17px;
+	color: #000;
+	padding:9px 9px 9px 50px;
+	border: 1px solid black;
+	
+	}
+	li:hover{
+		background-color:#fff;
+		
+	}
